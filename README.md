@@ -7,8 +7,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qahhorovtohirbek&show_icons=true&locale=en&layout=compact" alt="qahhorovtohirbek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qahhorovtohirbek&show_icons=true&locale=en" alt="qahhorovtohirbek" /></p>
-<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qahhorovtohirbek&show_icons=true&locale=en" alt="qahhorovtohirbek" /></p><br>
+
 - 📫 How to reach me **tohirbekqahhorov2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
